@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Hoop
   - Obstacle
+  - Button
   layers:
   - Default
   - TransparentFX
